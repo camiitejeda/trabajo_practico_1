@@ -12,7 +12,7 @@ public class Main {
 		float quintoNumero = 9;		
 		
 		float promedio = (primerNumero + segundoNumero + tercerNumero + cuartoNumero + quintoNumero)/ 5;
-		System.out.println(primerNumero+", "+segundoNumero);
+		System.out.println(primerNumero + ", " + segundoNumero + ", " + tercerNumero + ", " + cuartoNumero + ", " + quintoNumero);
 		System.out.println("El promedio es: "+ promedio );
 		
 	}

@@ -6,12 +6,12 @@ public class Main {
 		// TODO Auto-generated method stub
 		 String nombrePais = "Alemania";
 	        int edadPersona = 27;
-	        double alturaEdificio = 87; // Suponiendo que se mide en metros
-	        double precioProducto = 99.99; // Suponiendo que está en la moneda local
+	        double alturaEdificio = 87;
+	        double precioProducto = 99.99; 
 	        String numeroTelefono = "3884498946";
 	        double cosenoMedio = Math.cos(0.5);
 
-	        // Mostrar variables por consola
+	        // Mostrar
 	        System.out.println("Nombre del país: " + nombrePais);
 	        System.out.println("Edad de la persona: " + edadPersona + " años");
 	        System.out.println("Altura del edificio: " + alturaEdificio + " metros");
